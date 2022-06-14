@@ -4,7 +4,7 @@
 **naibor/naibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on ALX software engineering program.
-- 🌱 I’m currently learning Machine learning, it's surprisingly fun! 
+- 🌱 I’m currently learning Machine Learning and AI, it's surprisingly fun! 
 - 👯 I’m looking to collaborate on applications of machine learning in wildlife management.
 - 🤔 I’m looking for help with Ionic Angular highbrid application.
 - 💬 Ask me about Python, C, Wildlife management and conservation. 
