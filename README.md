@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World, I am Naibor :blush:
 
 <!--
-**naibor/naibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naibor/naibor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ALX software engineering program.
+- 🌱 I’m currently learning Machine learning, it's surprisingly fun! 
+- 👯 I’m looking to collaborate on applications of machine learning in wildlife management.
+- 🤔 I’m looking for help with Ionic Angular highbrid application.
+- 💬 Ask me about Python, C, Wildlife management and conservation. 
+- 📫 How to reach me: liznaibor.en@gmail.com
+- 😄 Pronouns: She :wink: 
+- ⚡ Fun fact: I am lowkey a cat whisperer. The trick is letting them come to you. :zany_face:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
